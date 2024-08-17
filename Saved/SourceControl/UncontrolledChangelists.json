@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ThirdPerson/Input/Actions/IA_Climb.uasset",
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ClimbingSystem/BP_ClimbingSystemCharacter.uasset",
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ClimbingSystem/BP_TestGameMode.uasset",
+				"D:/UnrealEngine/MyProjects/Testing/ClimbingSystem/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}

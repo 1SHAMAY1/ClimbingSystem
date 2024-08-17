@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine\\MyProjects\\Testing\\ClimbingSystem\\Source\\ClimbingSystem\\ClimbingSystem.Build.cs",
+		"D:\\UnrealEngine\\MyProjects\\Testing\\ClimbingSystem\\Source\\ClimbingSystem.Target.cs",
+		"D:\\UnrealEngine\\MyProjects\\Testing\\ClimbingSystem\\Source\\ClimbingSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
